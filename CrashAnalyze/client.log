@@ -1,0 +1,851 @@
+[ 2026-08-17 00:54:45,587 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b905e870) is not a function
+[ 2026-08-17 00:54:45,588 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b905e870) is not a function
+[ 2026-08-17 00:54:45,588 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b905e870) is not a function
+[ 2026-08-17 00:54:45,588 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b905e870) is not a function
+[ 2026-08-17 00:54:45,588 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b905e870) is not a function
+[ 2026-08-17 00:54:45,589 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b905e870) is not a function
+[ 2026-08-17 00:54:45,589 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b905e870) is not a function
+[ 2026-08-17 00:54:45,593 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b906de10) is not a function
+[ 2026-08-17 00:54:45,593 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b906de10) is not a function
+[ 2026-08-17 00:54:45,593 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b906de10) is not a function
+[ 2026-08-17 00:54:45,594 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b906de10) is not a function
+[ 2026-08-17 00:54:45,594 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b906de10) is not a function
+[ 2026-08-17 00:54:45,594 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b906de10) is not a function
+[ 2026-08-17 00:54:45,594 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b906de10) is not a function
+[ 2026-08-17 00:54:45,597 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9080a10) is not a function
+[ 2026-08-17 00:54:45,597 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9080a10) is not a function
+[ 2026-08-17 00:54:45,597 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9080a10) is not a function
+[ 2026-08-17 00:54:45,597 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9080a10) is not a function
+[ 2026-08-17 00:54:45,598 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9080a10) is not a function
+[ 2026-08-17 00:54:45,598 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9080a10) is not a function
+[ 2026-08-17 00:54:45,598 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9080a10) is not a function
+[ 2026-08-17 00:54:45,601 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9cd8cd0) is not a function
+[ 2026-08-17 00:54:45,602 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9cd8cd0) is not a function
+[ 2026-08-17 00:54:45,602 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9cd8cd0) is not a function
+[ 2026-08-17 00:54:45,602 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9cd8cd0) is not a function
+[ 2026-08-17 00:54:45,602 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9cd8cd0) is not a function
+[ 2026-08-17 00:54:45,602 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9cd8cd0) is not a function
+[ 2026-08-17 00:54:45,603 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9cd8cd0) is not a function
+[ 2026-08-17 00:54:45,606 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9cbe010) is not a function
+[ 2026-08-17 00:54:45,606 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9cbe010) is not a function
+[ 2026-08-17 00:54:45,606 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9cbe010) is not a function
+[ 2026-08-17 00:54:45,607 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9cbe010) is not a function
+[ 2026-08-17 00:54:45,607 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9cbe010) is not a function
+[ 2026-08-17 00:54:45,607 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9cbe010) is not a function
+[ 2026-08-17 00:54:45,607 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9cbe010) is not a function
+[ 2026-08-17 00:54:45,611 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9cd37d0) is not a function
+[ 2026-08-17 00:54:45,611 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9cd37d0) is not a function
+[ 2026-08-17 00:54:45,612 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9cd37d0) is not a function
+[ 2026-08-17 00:54:45,612 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9cd37d0) is not a function
+[ 2026-08-17 00:54:45,612 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9cd37d0) is not a function
+[ 2026-08-17 00:54:45,613 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9cd37d0) is not a function
+[ 2026-08-17 00:54:45,613 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b9cd37d0) is not a function
+[ 2026-08-17 00:54:45,615 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b835fbb0) is not a function
+[ 2026-08-17 00:54:45,616 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b835fbb0) is not a function
+[ 2026-08-17 00:54:45,616 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b835fbb0) is not a function
+[ 2026-08-17 00:54:45,616 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b835fbb0) is not a function
+[ 2026-08-17 00:54:45,616 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b835fbb0) is not a function
+[ 2026-08-17 00:54:45,616 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b835fbb0) is not a function
+[ 2026-08-17 00:54:45,616 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b835fbb0) is not a function
+[ 2026-08-17 00:54:45,620 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b83633f0) is not a function
+[ 2026-08-17 00:54:45,620 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b83633f0) is not a function
+[ 2026-08-17 00:54:45,621 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b83633f0) is not a function
+[ 2026-08-17 00:54:45,621 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b83633f0) is not a function
+[ 2026-08-17 00:54:45,621 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b83633f0) is not a function
+[ 2026-08-17 00:54:45,622 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b83633f0) is not a function
+[ 2026-08-17 00:54:45,622 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b83633f0) is not a function
+[ 2026-08-17 00:54:45,624 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x1459cb004b0) is not a function
+[ 2026-08-17 00:54:45,624 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x1459cb004b0) is not a function
+[ 2026-08-17 00:54:45,625 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x1459cb004b0) is not a function
+[ 2026-08-17 00:54:45,625 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x1459cb004b0) is not a function
+[ 2026-08-17 00:54:45,625 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x1459cb004b0) is not a function
+[ 2026-08-17 00:54:45,626 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x1459cb004b0) is not a function
+[ 2026-08-17 00:54:45,626 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x1459cb004b0) is not a function
+[ 2026-08-17 00:54:45,629 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x1459cb08b10) is not a function
+[ 2026-08-17 00:54:45,629 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x1459cb08b10) is not a function
+[ 2026-08-17 00:54:45,629 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x1459cb08b10) is not a function
+[ 2026-08-17 00:54:45,629 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x1459cb08b10) is not a function
+[ 2026-08-17 00:54:45,630 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x1459cb08b10) is not a function
+[ 2026-08-17 00:54:45,630 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x1459cb08b10) is not a function
+[ 2026-08-17 00:54:45,630 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x1459cb08b10) is not a function
+[ 2026-08-17 00:54:45,632 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145853330c0) is not a function
+[ 2026-08-17 00:54:45,632 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145853330c0) is not a function
+[ 2026-08-17 00:54:45,632 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145853330c0) is not a function
+[ 2026-08-17 00:54:45,633 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145853330c0) is not a function
+[ 2026-08-17 00:54:45,633 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145853330c0) is not a function
+[ 2026-08-17 00:54:45,633 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145853330c0) is not a function
+[ 2026-08-17 00:54:45,634 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145853330c0) is not a function
+[ 2026-08-17 00:54:45,636 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x14585323d00) is not a function
+[ 2026-08-17 00:54:45,637 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x14585323d00) is not a function
+[ 2026-08-17 00:54:45,637 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x14585323d00) is not a function
+[ 2026-08-17 00:54:45,637 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x14585323d00) is not a function
+[ 2026-08-17 00:54:45,639 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x14585323d00) is not a function
+[ 2026-08-17 00:54:45,639 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x14585323d00) is not a function
+[ 2026-08-17 00:54:45,639 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x14585323d00) is not a function
+[ 2026-08-17 00:54:45,642 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b80c5170) is not a function
+[ 2026-08-17 00:54:45,642 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b80c5170) is not a function
+[ 2026-08-17 00:54:45,642 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b80c5170) is not a function
+[ 2026-08-17 00:54:45,643 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b80c5170) is not a function
+[ 2026-08-17 00:54:45,643 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b80c5170) is not a function
+[ 2026-08-17 00:54:45,643 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b80c5170) is not a function
+[ 2026-08-17 00:54:45,644 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b80c5170) is not a function
+[ 2026-08-17 00:54:45,646 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b964c5c0) is not a function
+[ 2026-08-17 00:54:45,646 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b964c5c0) is not a function
+[ 2026-08-17 00:54:45,646 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b964c5c0) is not a function
+[ 2026-08-17 00:54:45,648 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b964c5c0) is not a function
+[ 2026-08-17 00:54:45,648 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b964c5c0) is not a function
+[ 2026-08-17 00:54:45,648 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b964c5c0) is not a function
+[ 2026-08-17 00:54:45,649 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b964c5c0) is not a function
+[ 2026-08-17 00:54:45,651 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145ba27c7f0) is not a function
+[ 2026-08-17 00:54:45,651 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145ba27c7f0) is not a function
+[ 2026-08-17 00:54:45,651 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145ba27c7f0) is not a function
+[ 2026-08-17 00:54:45,652 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145ba27c7f0) is not a function
+[ 2026-08-17 00:54:45,652 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145ba27c7f0) is not a function
+[ 2026-08-17 00:54:45,652 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145ba27c7f0) is not a function
+[ 2026-08-17 00:54:45,653 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145ba27c7f0) is not a function
+[ 2026-08-17 00:54:45,655 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b4856e70) is not a function
+[ 2026-08-17 00:54:45,655 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b4856e70) is not a function
+[ 2026-08-17 00:54:45,656 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b4856e70) is not a function
+[ 2026-08-17 00:54:45,656 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b4856e70) is not a function
+[ 2026-08-17 00:54:45,657 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b4856e70) is not a function
+[ 2026-08-17 00:54:45,657 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b4856e70) is not a function
+[ 2026-08-17 00:54:45,657 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x145b4856e70) is not a function
+[ 2026-08-17 01:30:37,774 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216541 found"
+[ 2026-08-17 01:30:37,774 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216541 found"
+[ 2026-08-17 01:42:19,062 ] Connection to gameserver  "tcp://sylvaria.pl:7172" "Sylvaria"  was disconnected ( "The remote host closed the connection" )
+[ 2026-08-17 01:42:19,067 ] StartDownload:  QUrl("")
+[ 2026-08-17 01:42:19,149 ] Disconnected from gameserver
+[ 2026-08-17 01:52:38,623 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x145db661220) is not a function
+[ 2026-08-17 01:52:38,623 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x145db661220) is not a function
+[ 2026-08-17 01:52:38,623 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x145db661220) is not a function
+[ 2026-08-17 01:52:38,623 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x145db661220) is not a function
+[ 2026-08-17 01:52:38,623 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x145db661220) is not a function
+[ 2026-08-17 01:52:38,624 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x145db661220) is not a function
+[ 2026-08-17 01:52:39,523 ] Request connection to gameserver  "tcp://sylvaria.pl:7172"  (unprotected:  "tcp://sylvaria.pl:7172" )  requested (Charakter "Kukureja" )
+[ 2026-08-17 01:52:39,530 ] Request connection to gameserver  "tcp://sylvaria.pl:7172" "Sylvaria"
+[ 2026-08-17 01:52:39,572 ] Connected to gameserver  "tcp://sylvaria.pl:7172" "Sylvaria"
+[ 2026-08-17 01:52:39,648 ] Didn't send news query with params (HighPotential: false Returner: true MaxKnownEditDate: 1590979202 ) (URL: QUrl("https://sylvaria.pl/login.php") ) due to too many retries.
+[ 2026-08-17 01:52:39,671 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x145db687740) is not a function
+[ 2026-08-17 01:52:39,671 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x145db687740) is not a function
+[ 2026-08-17 01:52:39,671 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x145db687740) is not a function
+[ 2026-08-17 01:52:39,671 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x145db687740) is not a function
+[ 2026-08-17 01:52:39,671 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x145db687740) is not a function
+[ 2026-08-17 01:52:39,671 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x145db687740) is not a function
+[ 2026-08-17 01:52:41,128 ] Request connection to gameserver  "tcp://sylvaria.pl:7172"  (unprotected:  "tcp://sylvaria.pl:7172" )  requested (Charakter "Kukureja" )
+[ 2026-08-17 01:52:41,148 ] Request connection to gameserver  "tcp://sylvaria.pl:7172" "Sylvaria"
+[ 2026-08-17 01:52:41,189 ] Connected to gameserver  "tcp://sylvaria.pl:7172" "Sylvaria"
+[ 2026-08-17 01:52:41,656 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216541 found"
+[ 2026-08-17 01:52:41,656 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342205213 found"
+[ 2026-08-17 01:52:41,656 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216630 found"
+[ 2026-08-17 01:52:41,656 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216632 found"
+[ 2026-08-17 01:52:41,656 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216634 found"
+[ 2026-08-17 01:52:41,656 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216635 found"
+[ 2026-08-17 01:52:41,656 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216631 found"
+[ 2026-08-17 01:52:41,656 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216633 found"
+[ 2026-08-17 01:53:42,112 ] Connection to gameserver  "tcp://sylvaria.pl:7172" "Sylvaria"  was disconnected ( "The remote host closed the connection" )
+[ 2026-08-17 01:53:42,112 ] StartDownload:  QUrl("")
+[ 2026-08-17 01:53:42,177 ] Disconnected from gameserver
+[ 2026-08-17 01:53:42,256 ] Didn't send news query with params (HighPotential: false Returner: true MaxKnownEditDate: 1590979202 ) (URL: QUrl("https://sylvaria.pl/login.php") ) due to too many retries.
+[ 2026-08-17 01:53:42,274 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x145dc661e70) is not a function
+[ 2026-08-17 01:53:42,274 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x145dc661e70) is not a function
+[ 2026-08-17 01:53:42,275 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x145dc661e70) is not a function
+[ 2026-08-17 01:53:42,275 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x145dc661e70) is not a function
+[ 2026-08-17 01:53:42,275 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x145dc661e70) is not a function
+[ 2026-08-17 01:53:42,275 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x145dc661e70) is not a function
+[ 2026-08-17 10:47:50,709 ] Using spritesheet cache size of 910
+[ 2026-08-17 10:47:50,794 ] Sound engine initialized with default sound device "Speakers (Realtek(R) Audio)"
+[ 2026-08-17 10:47:50,810 ] Switch used audio device to "Speakers (Realtek(R) Audio)"
+[ 2026-08-17 10:48:03,050 ] Asset loading complete
+[ 2026-08-17 10:48:03,119 ] StartDownload:  QUrl("")
+[ 2026-08-17 10:48:57,811 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2980be59970) is not a function
+[ 2026-08-17 10:48:57,811 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2980be59970) is not a function
+[ 2026-08-17 10:48:57,811 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2980be59970) is not a function
+[ 2026-08-17 10:48:57,812 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2980be59970) is not a function
+[ 2026-08-17 10:48:57,812 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2980be59970) is not a function
+[ 2026-08-17 10:48:57,812 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2980be59970) is not a function
+[ 2026-08-17 10:48:58,367 ] Request connection to gameserver  "tcp://sylvaria.pl:7172"  (unprotected:  "tcp://sylvaria.pl:7172" )  requested (Charakter "Kukureja" )
+[ 2026-08-17 10:48:58,373 ] Request connection to gameserver  "tcp://sylvaria.pl:7172" "Sylvaria"
+[ 2026-08-17 10:48:58,413 ] Connected to gameserver  "tcp://sylvaria.pl:7172" "Sylvaria"
+[ 2026-08-17 10:48:58,990 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216672 found"
+[ 2026-08-17 10:48:58,990 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216682 found"
+[ 2026-08-17 10:48:58,991 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342205266 found"
+[ 2026-08-17 10:48:58,991 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342205267 found"
+[ 2026-08-17 10:48:58,991 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342205268 found"
+[ 2026-08-17 10:48:58,991 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342205323 found"
+[ 2026-08-17 10:48:58,991 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342205324 found"
+[ 2026-08-17 10:48:58,991 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342205369 found"
+[ 2026-08-17 10:48:58,991 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342205370 found"
+[ 2026-08-17 10:48:58,991 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342205378 found"
+[ 2026-08-17 10:48:58,991 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342205368 found"
+[ 2026-08-17 10:48:58,991 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216734 found"
+[ 2026-08-17 10:48:58,992 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216733 found"
+[ 2026-08-17 10:48:58,992 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342205372 found"
+[ 2026-08-17 10:48:58,992 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342205371 found"
+[ 2026-08-17 10:50:50,741 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980f6303e0) is not a function
+[ 2026-08-17 10:50:50,741 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980f6303e0) is not a function
+[ 2026-08-17 10:50:50,741 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980f6303e0) is not a function
+[ 2026-08-17 10:50:50,741 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980f6303e0) is not a function
+[ 2026-08-17 10:50:50,741 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980f6303e0) is not a function
+[ 2026-08-17 10:50:50,741 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980f6303e0) is not a function
+[ 2026-08-17 10:50:50,741 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980f6303e0) is not a function
+[ 2026-08-17 10:50:50,744 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980f634b20) is not a function
+[ 2026-08-17 10:50:50,744 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980f634b20) is not a function
+[ 2026-08-17 10:50:50,744 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980f634b20) is not a function
+[ 2026-08-17 10:50:50,744 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980f634b20) is not a function
+[ 2026-08-17 10:50:50,744 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980f634b20) is not a function
+[ 2026-08-17 10:50:50,744 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980f634b20) is not a function
+[ 2026-08-17 10:50:50,744 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980f634b20) is not a function
+[ 2026-08-17 10:50:50,747 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298100b0700) is not a function
+[ 2026-08-17 10:50:50,747 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298100b0700) is not a function
+[ 2026-08-17 10:50:50,747 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298100b0700) is not a function
+[ 2026-08-17 10:50:50,747 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298100b0700) is not a function
+[ 2026-08-17 10:50:50,747 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298100b0700) is not a function
+[ 2026-08-17 10:50:50,747 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298100b0700) is not a function
+[ 2026-08-17 10:50:50,748 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298100b0700) is not a function
+[ 2026-08-17 10:50:50,751 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298100c0ce0) is not a function
+[ 2026-08-17 10:50:50,751 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298100c0ce0) is not a function
+[ 2026-08-17 10:50:50,751 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298100c0ce0) is not a function
+[ 2026-08-17 10:50:50,751 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298100c0ce0) is not a function
+[ 2026-08-17 10:50:50,751 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298100c0ce0) is not a function
+[ 2026-08-17 10:50:50,752 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298100c0ce0) is not a function
+[ 2026-08-17 10:50:50,752 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298100c0ce0) is not a function
+[ 2026-08-17 10:50:50,757 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980ea49df0) is not a function
+[ 2026-08-17 10:50:50,757 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980ea49df0) is not a function
+[ 2026-08-17 10:50:50,757 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980ea49df0) is not a function
+[ 2026-08-17 10:50:50,757 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980ea49df0) is not a function
+[ 2026-08-17 10:50:50,757 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980ea49df0) is not a function
+[ 2026-08-17 10:50:50,757 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980ea49df0) is not a function
+[ 2026-08-17 10:50:50,757 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980ea49df0) is not a function
+[ 2026-08-17 10:50:50,760 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980be1d9c0) is not a function
+[ 2026-08-17 10:50:50,760 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980be1d9c0) is not a function
+[ 2026-08-17 10:50:50,761 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980be1d9c0) is not a function
+[ 2026-08-17 10:50:50,761 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980be1d9c0) is not a function
+[ 2026-08-17 10:50:50,761 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980be1d9c0) is not a function
+[ 2026-08-17 10:50:50,761 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980be1d9c0) is not a function
+[ 2026-08-17 10:50:50,761 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980be1d9c0) is not a function
+[ 2026-08-17 10:50:50,764 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980f18c1f0) is not a function
+[ 2026-08-17 10:50:50,764 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980f18c1f0) is not a function
+[ 2026-08-17 10:50:50,764 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980f18c1f0) is not a function
+[ 2026-08-17 10:50:50,764 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980f18c1f0) is not a function
+[ 2026-08-17 10:50:50,764 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980f18c1f0) is not a function
+[ 2026-08-17 10:50:50,764 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980f18c1f0) is not a function
+[ 2026-08-17 10:50:50,764 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2980f18c1f0) is not a function
+[ 2026-08-17 10:50:50,769 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29800a87420) is not a function
+[ 2026-08-17 10:50:50,770 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29800a87420) is not a function
+[ 2026-08-17 10:50:50,770 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29800a87420) is not a function
+[ 2026-08-17 10:50:50,770 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29800a87420) is not a function
+[ 2026-08-17 10:50:50,771 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29800a87420) is not a function
+[ 2026-08-17 10:50:50,771 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29800a87420) is not a function
+[ 2026-08-17 10:50:50,771 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29800a87420) is not a function
+[ 2026-08-17 10:50:50,777 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aa9d870) is not a function
+[ 2026-08-17 10:50:50,778 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aa9d870) is not a function
+[ 2026-08-17 10:50:50,778 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aa9d870) is not a function
+[ 2026-08-17 10:50:50,778 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aa9d870) is not a function
+[ 2026-08-17 10:50:50,778 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aa9d870) is not a function
+[ 2026-08-17 10:50:50,779 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aa9d870) is not a function
+[ 2026-08-17 10:50:50,779 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aa9d870) is not a function
+[ 2026-08-17 10:50:50,782 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaa4530) is not a function
+[ 2026-08-17 10:50:50,782 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaa4530) is not a function
+[ 2026-08-17 10:50:50,782 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaa4530) is not a function
+[ 2026-08-17 10:50:50,782 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaa4530) is not a function
+[ 2026-08-17 10:50:50,783 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaa4530) is not a function
+[ 2026-08-17 10:50:50,783 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaa4530) is not a function
+[ 2026-08-17 10:50:50,783 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaa4530) is not a function
+[ 2026-08-17 10:50:50,787 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaa6470) is not a function
+[ 2026-08-17 10:50:50,787 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaa6470) is not a function
+[ 2026-08-17 10:50:50,787 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaa6470) is not a function
+[ 2026-08-17 10:50:50,788 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaa6470) is not a function
+[ 2026-08-17 10:50:50,788 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaa6470) is not a function
+[ 2026-08-17 10:50:50,788 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaa6470) is not a function
+[ 2026-08-17 10:50:50,788 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaa6470) is not a function
+[ 2026-08-17 10:50:50,793 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaab5b0) is not a function
+[ 2026-08-17 10:50:50,793 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaab5b0) is not a function
+[ 2026-08-17 10:50:50,793 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaab5b0) is not a function
+[ 2026-08-17 10:50:50,794 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaab5b0) is not a function
+[ 2026-08-17 10:50:50,794 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaab5b0) is not a function
+[ 2026-08-17 10:50:50,794 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaab5b0) is not a function
+[ 2026-08-17 10:50:50,794 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaab5b0) is not a function
+[ 2026-08-17 10:50:50,799 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaacf50) is not a function
+[ 2026-08-17 10:50:50,799 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaacf50) is not a function
+[ 2026-08-17 10:50:50,800 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaacf50) is not a function
+[ 2026-08-17 10:50:50,800 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaacf50) is not a function
+[ 2026-08-17 10:50:50,800 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaacf50) is not a function
+[ 2026-08-17 10:50:50,800 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaacf50) is not a function
+[ 2026-08-17 10:50:50,801 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aaacf50) is not a function
+[ 2026-08-17 10:50:50,804 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aab1e10) is not a function
+[ 2026-08-17 10:50:50,805 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aab1e10) is not a function
+[ 2026-08-17 10:50:50,805 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aab1e10) is not a function
+[ 2026-08-17 10:50:50,805 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aab1e10) is not a function
+[ 2026-08-17 10:50:50,805 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aab1e10) is not a function
+[ 2026-08-17 10:50:50,806 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aab1e10) is not a function
+[ 2026-08-17 10:50:50,806 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aab1e10) is not a function
+[ 2026-08-17 10:50:50,809 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aab64b0) is not a function
+[ 2026-08-17 10:50:50,809 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aab64b0) is not a function
+[ 2026-08-17 10:50:50,809 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aab64b0) is not a function
+[ 2026-08-17 10:50:50,809 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aab64b0) is not a function
+[ 2026-08-17 10:50:50,810 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aab64b0) is not a function
+[ 2026-08-17 10:50:50,810 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aab64b0) is not a function
+[ 2026-08-17 10:50:50,810 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aab64b0) is not a function
+[ 2026-08-17 10:50:50,813 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aa998b0) is not a function
+[ 2026-08-17 10:50:50,813 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aa998b0) is not a function
+[ 2026-08-17 10:50:50,814 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aa998b0) is not a function
+[ 2026-08-17 10:50:50,814 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aa998b0) is not a function
+[ 2026-08-17 10:50:50,814 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aa998b0) is not a function
+[ 2026-08-17 10:50:50,814 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aa998b0) is not a function
+[ 2026-08-17 10:50:50,815 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984aa998b0) is not a function
+[ 2026-08-17 10:50:50,818 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9a4eb0) is not a function
+[ 2026-08-17 10:50:50,818 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9a4eb0) is not a function
+[ 2026-08-17 10:50:50,819 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9a4eb0) is not a function
+[ 2026-08-17 10:50:50,819 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9a4eb0) is not a function
+[ 2026-08-17 10:50:50,819 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9a4eb0) is not a function
+[ 2026-08-17 10:50:50,819 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9a4eb0) is not a function
+[ 2026-08-17 10:50:50,820 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9a4eb0) is not a function
+[ 2026-08-17 10:50:50,822 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9a90f0) is not a function
+[ 2026-08-17 10:50:50,823 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9a90f0) is not a function
+[ 2026-08-17 10:50:50,823 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9a90f0) is not a function
+[ 2026-08-17 10:50:50,823 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9a90f0) is not a function
+[ 2026-08-17 10:50:50,824 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9a90f0) is not a function
+[ 2026-08-17 10:50:50,824 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9a90f0) is not a function
+[ 2026-08-17 10:50:50,824 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9a90f0) is not a function
+[ 2026-08-17 10:50:50,827 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9ac890) is not a function
+[ 2026-08-17 10:50:50,828 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9ac890) is not a function
+[ 2026-08-17 10:50:50,828 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9ac890) is not a function
+[ 2026-08-17 10:50:50,828 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9ac890) is not a function
+[ 2026-08-17 10:50:50,829 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9ac890) is not a function
+[ 2026-08-17 10:50:50,829 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9ac890) is not a function
+[ 2026-08-17 10:50:50,829 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9ac890) is not a function
+[ 2026-08-17 10:50:50,833 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9b0b70) is not a function
+[ 2026-08-17 10:50:50,834 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9b0b70) is not a function
+[ 2026-08-17 10:50:50,834 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9b0b70) is not a function
+[ 2026-08-17 10:50:50,834 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9b0b70) is not a function
+[ 2026-08-17 10:50:50,834 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9b0b70) is not a function
+[ 2026-08-17 10:50:50,834 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9b0b70) is not a function
+[ 2026-08-17 10:50:50,834 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2984c9b0b70) is not a function
+[ 2026-08-17 11:06:50,893 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342265961 found"
+[ 2026-08-17 11:16:54,568 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342266202 found"
+[ 2026-08-17 11:29:07,449 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2985a48d480) is not a function
+[ 2026-08-17 11:29:07,450 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2985a48dfc0) is not a function
+[ 2026-08-17 11:29:07,451 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2985a48cc60) is not a function
+[ 2026-08-17 11:29:07,452 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2985a490ea0) is not a function
+[ 2026-08-17 11:29:07,452 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2985a4909a0) is not a function
+[ 2026-08-17 11:29:07,453 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2985a492980) is not a function
+[ 2026-08-17 11:29:07,453 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2985a491940) is not a function
+[ 2026-08-17 11:29:44,337 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x298579af270) is not a function
+[ 2026-08-17 11:29:44,338 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x298579b0710) is not a function
+[ 2026-08-17 11:29:44,338 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x298579b1ed0) is not a function
+[ 2026-08-17 11:29:44,339 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x29857993070) is not a function
+[ 2026-08-17 11:29:44,339 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x298579941f0) is not a function
+[ 2026-08-17 11:29:44,340 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x29857992670) is not a function
+[ 2026-08-17 11:29:44,340 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x298579950f0) is not a function
+[ 2026-08-17 12:16:39,567 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216632 found"
+[ 2026-08-17 12:16:39,567 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216632 found"
+[ 2026-08-17 12:18:01,193 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298573af540) is not a function
+[ 2026-08-17 12:18:01,193 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298573af540) is not a function
+[ 2026-08-17 12:18:01,193 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298573af540) is not a function
+[ 2026-08-17 12:18:01,193 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298573af540) is not a function
+[ 2026-08-17 12:18:01,193 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298573af540) is not a function
+[ 2026-08-17 12:18:01,193 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298573af540) is not a function
+[ 2026-08-17 12:18:01,193 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298573af540) is not a function
+[ 2026-08-17 12:18:01,196 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298573b1480) is not a function
+[ 2026-08-17 12:18:01,196 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298573b1480) is not a function
+[ 2026-08-17 12:18:01,196 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298573b1480) is not a function
+[ 2026-08-17 12:18:01,196 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298573b1480) is not a function
+[ 2026-08-17 12:18:01,196 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298573b1480) is not a function
+[ 2026-08-17 12:18:01,196 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298573b1480) is not a function
+[ 2026-08-17 12:18:01,196 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298573b1480) is not a function
+[ 2026-08-17 12:18:01,199 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29823476520) is not a function
+[ 2026-08-17 12:18:01,199 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29823476520) is not a function
+[ 2026-08-17 12:18:01,199 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29823476520) is not a function
+[ 2026-08-17 12:18:01,199 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29823476520) is not a function
+[ 2026-08-17 12:18:01,199 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29823476520) is not a function
+[ 2026-08-17 12:18:01,199 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29823476520) is not a function
+[ 2026-08-17 12:18:01,199 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29823476520) is not a function
+[ 2026-08-17 12:18:01,202 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2982347bca0) is not a function
+[ 2026-08-17 12:18:01,202 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2982347bca0) is not a function
+[ 2026-08-17 12:18:01,203 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2982347bca0) is not a function
+[ 2026-08-17 12:18:01,203 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2982347bca0) is not a function
+[ 2026-08-17 12:18:01,203 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2982347bca0) is not a function
+[ 2026-08-17 12:18:01,203 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2982347bca0) is not a function
+[ 2026-08-17 12:18:01,203 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2982347bca0) is not a function
+[ 2026-08-17 12:18:01,204 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298234817e0) is not a function
+[ 2026-08-17 12:18:01,204 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298234817e0) is not a function
+[ 2026-08-17 12:18:01,204 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298234817e0) is not a function
+[ 2026-08-17 12:18:01,205 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298234817e0) is not a function
+[ 2026-08-17 12:18:01,205 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298234817e0) is not a function
+[ 2026-08-17 12:18:01,205 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298234817e0) is not a function
+[ 2026-08-17 12:18:01,205 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x298234817e0) is not a function
+[ 2026-08-17 12:18:01,207 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29823482be0) is not a function
+[ 2026-08-17 12:18:01,209 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29823482be0) is not a function
+[ 2026-08-17 12:18:01,209 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29823482be0) is not a function
+[ 2026-08-17 12:18:01,209 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29823482be0) is not a function
+[ 2026-08-17 12:18:01,209 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29823482be0) is not a function
+[ 2026-08-17 12:18:01,209 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29823482be0) is not a function
+[ 2026-08-17 12:18:01,209 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29823482be0) is not a function
+[ 2026-08-17 12:18:01,211 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29823488c20) is not a function
+[ 2026-08-17 12:18:01,212 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29823488c20) is not a function
+[ 2026-08-17 12:18:01,212 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29823488c20) is not a function
+[ 2026-08-17 12:18:01,212 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29823488c20) is not a function
+[ 2026-08-17 12:18:01,212 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29823488c20) is not a function
+[ 2026-08-17 12:18:01,212 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29823488c20) is not a function
+[ 2026-08-17 12:18:01,212 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29823488c20) is not a function
+[ 2026-08-17 12:18:01,214 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2982348d360) is not a function
+[ 2026-08-17 12:18:01,214 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2982348d360) is not a function
+[ 2026-08-17 12:18:01,214 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2982348d360) is not a function
+[ 2026-08-17 12:18:01,215 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2982348d360) is not a function
+[ 2026-08-17 12:18:01,215 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2982348d360) is not a function
+[ 2026-08-17 12:18:01,215 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2982348d360) is not a function
+[ 2026-08-17 12:18:01,215 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2982348d360) is not a function
+[ 2026-08-17 12:18:01,219 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5bdf00) is not a function
+[ 2026-08-17 12:18:01,219 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5bdf00) is not a function
+[ 2026-08-17 12:18:01,219 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5bdf00) is not a function
+[ 2026-08-17 12:18:01,219 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5bdf00) is not a function
+[ 2026-08-17 12:18:01,220 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5bdf00) is not a function
+[ 2026-08-17 12:18:01,220 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5bdf00) is not a function
+[ 2026-08-17 12:18:01,220 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5bdf00) is not a function
+[ 2026-08-17 12:18:01,222 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5c3ae0) is not a function
+[ 2026-08-17 12:18:01,223 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5c3ae0) is not a function
+[ 2026-08-17 12:18:01,223 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5c3ae0) is not a function
+[ 2026-08-17 12:18:01,223 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5c3ae0) is not a function
+[ 2026-08-17 12:18:01,223 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5c3ae0) is not a function
+[ 2026-08-17 12:18:01,223 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5c3ae0) is not a function
+[ 2026-08-17 12:18:01,224 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5c3ae0) is not a function
+[ 2026-08-17 12:18:01,228 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5c9b20) is not a function
+[ 2026-08-17 12:18:01,229 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5c9b20) is not a function
+[ 2026-08-17 12:18:01,229 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5c9b20) is not a function
+[ 2026-08-17 12:18:01,229 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5c9b20) is not a function
+[ 2026-08-17 12:18:01,229 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5c9b20) is not a function
+[ 2026-08-17 12:18:01,229 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5c9b20) is not a function
+[ 2026-08-17 12:18:01,230 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5c9b20) is not a function
+[ 2026-08-17 12:18:01,233 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c593840) is not a function
+[ 2026-08-17 12:18:01,233 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c593840) is not a function
+[ 2026-08-17 12:18:01,233 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c593840) is not a function
+[ 2026-08-17 12:18:01,235 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c593840) is not a function
+[ 2026-08-17 12:18:01,235 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c593840) is not a function
+[ 2026-08-17 12:18:01,235 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c593840) is not a function
+[ 2026-08-17 12:18:01,236 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c593840) is not a function
+[ 2026-08-17 12:18:01,239 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c59d480) is not a function
+[ 2026-08-17 12:18:01,240 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c59d480) is not a function
+[ 2026-08-17 12:18:01,240 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c59d480) is not a function
+[ 2026-08-17 12:18:01,241 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c59d480) is not a function
+[ 2026-08-17 12:18:01,241 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c59d480) is not a function
+[ 2026-08-17 12:18:01,241 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c59d480) is not a function
+[ 2026-08-17 12:18:01,242 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c59d480) is not a function
+[ 2026-08-17 12:18:01,247 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5ba800) is not a function
+[ 2026-08-17 12:18:01,247 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5ba800) is not a function
+[ 2026-08-17 12:18:01,248 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5ba800) is not a function
+[ 2026-08-17 12:18:01,248 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5ba800) is not a function
+[ 2026-08-17 12:18:01,248 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5ba800) is not a function
+[ 2026-08-17 12:18:01,249 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5ba800) is not a function
+[ 2026-08-17 12:18:01,249 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985c5ba800) is not a function
+[ 2026-08-17 12:18:01,252 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e5bd60) is not a function
+[ 2026-08-17 12:18:01,252 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e5bd60) is not a function
+[ 2026-08-17 12:18:01,252 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e5bd60) is not a function
+[ 2026-08-17 12:18:01,253 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e5bd60) is not a function
+[ 2026-08-17 12:18:01,253 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e5bd60) is not a function
+[ 2026-08-17 12:18:01,254 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e5bd60) is not a function
+[ 2026-08-17 12:18:01,254 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e5bd60) is not a function
+[ 2026-08-17 12:18:01,257 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e60e00) is not a function
+[ 2026-08-17 12:18:01,257 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e60e00) is not a function
+[ 2026-08-17 12:18:01,258 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e60e00) is not a function
+[ 2026-08-17 12:18:01,258 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e60e00) is not a function
+[ 2026-08-17 12:18:01,258 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e60e00) is not a function
+[ 2026-08-17 12:18:01,258 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e60e00) is not a function
+[ 2026-08-17 12:18:01,258 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e60e00) is not a function
+[ 2026-08-17 12:18:01,261 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e49ac0) is not a function
+[ 2026-08-17 12:18:01,261 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e49ac0) is not a function
+[ 2026-08-17 12:18:01,262 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e49ac0) is not a function
+[ 2026-08-17 12:18:01,262 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e49ac0) is not a function
+[ 2026-08-17 12:18:01,262 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e49ac0) is not a function
+[ 2026-08-17 12:18:01,262 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e49ac0) is not a function
+[ 2026-08-17 12:18:01,262 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e49ac0) is not a function
+[ 2026-08-17 12:18:01,266 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e56040) is not a function
+[ 2026-08-17 12:18:01,267 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e56040) is not a function
+[ 2026-08-17 12:18:01,267 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e56040) is not a function
+[ 2026-08-17 12:18:01,267 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e56040) is not a function
+[ 2026-08-17 12:18:01,267 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e56040) is not a function
+[ 2026-08-17 12:18:01,268 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e56040) is not a function
+[ 2026-08-17 12:18:01,268 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29857e56040) is not a function
+[ 2026-08-17 12:18:01,271 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29860b02da0) is not a function
+[ 2026-08-17 12:18:01,272 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29860b02da0) is not a function
+[ 2026-08-17 12:18:01,272 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29860b02da0) is not a function
+[ 2026-08-17 12:18:01,272 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29860b02da0) is not a function
+[ 2026-08-17 12:18:01,272 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29860b02da0) is not a function
+[ 2026-08-17 12:18:01,273 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29860b02da0) is not a function
+[ 2026-08-17 12:18:01,273 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29860b02da0) is not a function
+[ 2026-08-17 12:18:01,276 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29860b06180) is not a function
+[ 2026-08-17 12:18:01,276 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29860b06180) is not a function
+[ 2026-08-17 12:18:01,277 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29860b06180) is not a function
+[ 2026-08-17 12:18:01,277 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29860b06180) is not a function
+[ 2026-08-17 12:18:01,277 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29860b06180) is not a function
+[ 2026-08-17 12:18:01,277 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29860b06180) is not a function
+[ 2026-08-17 12:18:01,278 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29860b06180) is not a function
+[ 2026-08-17 12:19:05,926 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2985971f4e0) is not a function
+[ 2026-08-17 12:19:05,927 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x29859722500) is not a function
+[ 2026-08-17 12:19:05,928 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x29859720c00) is not a function
+[ 2026-08-17 12:19:05,928 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x298597237c0) is not a function
+[ 2026-08-17 12:19:05,929 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x29859715800) is not a function
+[ 2026-08-17 12:19:05,930 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x298597140e0) is not a function
+[ 2026-08-17 12:19:05,931 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x29859715440) is not a function
+[ 2026-08-17 12:36:01,065 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2980c152aa0) is not a function
+[ 2026-08-17 12:36:01,065 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2980c1541c0) is not a function
+[ 2026-08-17 12:36:01,066 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2980c158a40) is not a function
+[ 2026-08-17 12:36:01,067 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2980c13a720) is not a function
+[ 2026-08-17 12:36:01,068 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2980c13c840) is not a function
+[ 2026-08-17 12:36:01,069 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2980c13e460) is not a function
+[ 2026-08-17 12:36:01,069 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2980c1410c0) is not a function
+[ 2026-08-17 12:46:39,535 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216632 found"
+[ 2026-08-17 12:46:39,535 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216632 found"
+[ 2026-08-17 12:46:50,502 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x298234b3ba0) is not a function
+[ 2026-08-17 12:46:50,504 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x298234b6080) is not a function
+[ 2026-08-17 12:46:50,505 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x29823413910) is not a function
+[ 2026-08-17 12:46:50,505 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x29823414d10) is not a function
+[ 2026-08-17 12:46:50,506 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x298234144f0) is not a function
+[ 2026-08-17 12:46:50,507 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x29823416430) is not a function
+[ 2026-08-17 12:46:50,507 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x29823417830) is not a function
+[ 2026-08-17 13:05:01,975 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985dc12080) is not a function
+[ 2026-08-17 13:05:01,975 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x2985dc12080) is not a function
+[ 2026-08-17 13:05:01,977 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29850953dc0) is not a function
+[ 2026-08-17 13:05:01,977 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x29850953dc0) is not a function
+[ 2026-08-17 13:10:36,913 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMListAccessorData(0x29808a6c600) is not a function
+[ 2026-08-17 13:10:36,913 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMListAccessorData(0x29808a6e650) is not a function
+[ 2026-08-17 13:10:36,914 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMListAccessorData(0x29808a6e4f0) is not a function
+[ 2026-08-17 13:10:36,915 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMListAccessorData(0x29808a6c550) is not a function
+[ 2026-08-17 13:10:36,915 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMListAccessorData(0x29808a722d0) is not a function
+[ 2026-08-17 13:10:36,916 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMListAccessorData(0x29808a71a90) is not a function
+[ 2026-08-17 13:10:36,917 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMListAccessorData(0x29808a72c70) is not a function
+[ 2026-08-17 13:10:36,917 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMListAccessorData(0x29808a73140) is not a function
+[ 2026-08-17 13:10:36,917 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMListAccessorData(0x29808a755b0) is not a function
+[ 2026-08-17 13:10:36,917 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMListAccessorData(0x29808a74ab0) is not a function
+[ 2026-08-17 13:10:36,918 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMListAccessorData(0x29808a35130) is not a function
+[ 2026-08-17 13:10:36,918 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMListAccessorData(0x29808a35600) is not a function
+[ 2026-08-17 13:10:36,919 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMListAccessorData(0x29808a356b0) is not a function
+[ 2026-08-17 13:11:27,142 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342265291 found"
+[ 2026-08-17 13:11:31,842 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342265294 found"
+[ 2026-08-17 13:11:33,053 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342265287 found"
+[ 2026-08-17 13:11:33,152 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342265290 found"
+[ 2026-08-17 13:11:33,451 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342265288 found"
+[ 2026-08-17 13:11:35,355 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342265293 found"
+[ 2026-08-17 13:21:57,082 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2985fec7ba0) is not a function
+[ 2026-08-17 13:21:57,083 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2985fec8be0) is not a function
+[ 2026-08-17 13:21:57,083 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2985fec8aa0) is not a function
+[ 2026-08-17 13:21:57,085 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2985feca4e0) is not a function
+[ 2026-08-17 13:21:57,085 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2985fecd000) is not a function
+[ 2026-08-17 13:21:57,086 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2985fecabc0) is not a function
+[ 2026-08-17 13:21:57,087 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2985fecbd40) is not a function
+[ 2026-08-17 13:46:39,489 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216628 found"
+[ 2026-08-17 13:46:39,489 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216628 found"
+[ 2026-08-17 13:52:38,627 ] Connection to gameserver  "tcp://sylvaria.pl:7172" "Sylvaria"  was disconnected ( "The remote host closed the connection" )
+[ 2026-08-17 13:52:38,627 ] StartDownload:  QUrl("")
+[ 2026-08-17 13:52:38,731 ] Disconnected from gameserver
+[ 2026-08-17 13:52:38,910 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x29814646750) is not a function
+[ 2026-08-17 13:52:38,910 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x29814646750) is not a function
+[ 2026-08-17 13:52:38,910 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x29814646750) is not a function
+[ 2026-08-17 13:52:38,910 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x29814646750) is not a function
+[ 2026-08-17 13:52:38,910 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x29814646750) is not a function
+[ 2026-08-17 13:52:38,910 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x29814646750) is not a function
+[ 2026-08-17 13:52:43,588 ] Using spritesheet cache size of 910
+[ 2026-08-17 13:52:43,639 ] Sound engine initialized with default sound device "Speakers (Realtek(R) Audio)"
+[ 2026-08-17 13:52:43,664 ] Switch used audio device to "Speakers (Realtek(R) Audio)"
+[ 2026-08-17 13:52:51,395 ] Asset loading complete
+[ 2026-08-17 13:52:51,466 ] StartDownload:  QUrl("")
+[ 2026-08-17 13:52:57,123 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dfbae4c30) is not a function
+[ 2026-08-17 13:52:57,123 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dfbae4c30) is not a function
+[ 2026-08-17 13:52:57,123 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dfbae4c30) is not a function
+[ 2026-08-17 13:52:57,123 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dfbae4c30) is not a function
+[ 2026-08-17 13:52:57,123 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dfbae4c30) is not a function
+[ 2026-08-17 13:52:57,123 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dfbae4c30) is not a function
+[ 2026-08-17 13:52:57,565 ] Request connection to gameserver  "tcp://sylvaria.pl:7172"  (unprotected:  "tcp://sylvaria.pl:7172" )  requested (Charakter "Kukureja" )
+[ 2026-08-17 13:52:57,571 ] Request connection to gameserver  "tcp://sylvaria.pl:7172" "Sylvaria"
+[ 2026-08-17 13:52:57,651 ] Connected to gameserver  "tcp://sylvaria.pl:7172" "Sylvaria"
+[ 2026-08-17 13:52:58,196 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216632 found"
+[ 2026-08-17 13:52:58,196 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216635 found"
+[ 2026-08-17 13:52:58,196 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216636 found"
+[ 2026-08-17 13:52:58,197 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216633 found"
+[ 2026-08-17 13:52:58,197 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342205213 found"
+[ 2026-08-17 13:52:58,197 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216630 found"
+[ 2026-08-17 13:52:58,197 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342205214 found"
+[ 2026-08-17 13:52:58,197 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216679 found"
+[ 2026-08-17 13:52:58,197 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216680 found"
+[ 2026-08-17 13:52:58,197 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216678 found"
+[ 2026-08-17 13:56:39,588 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9ef045c0) is not a function
+[ 2026-08-17 13:56:39,588 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9ef045c0) is not a function
+[ 2026-08-17 13:56:39,589 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9ef068c0) is not a function
+[ 2026-08-17 13:56:39,589 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9ef068c0) is not a function
+[ 2026-08-17 14:17:58,128 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15d817a8420) is not a function
+[ 2026-08-17 14:17:58,129 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15da4c64a20) is not a function
+[ 2026-08-17 14:17:58,130 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15da895ae70) is not a function
+[ 2026-08-17 14:17:58,131 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dfbf61a80) is not a function
+[ 2026-08-17 14:17:58,131 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15de208a300) is not a function
+[ 2026-08-17 14:17:58,132 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15de1313d90) is not a function
+[ 2026-08-17 14:17:58,133 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15deb36dfb0) is not a function
+[ 2026-08-17 14:27:20,757 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342276409 found"
+[ 2026-08-17 14:45:20,118 ] qrc:/qt/qml/qmlcomponents/qml/Chat.qml:586: TypeError: Property 'deslect' of object ChatInput_QMLTYPE_88(0x15dee82fb80) is not a function
+[ 2026-08-17 14:46:39,442 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216634 found"
+[ 2026-08-17 14:46:39,443 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216634 found"
+[ 2026-08-17 14:46:56,816 ] Connection to gameserver  "tcp://sylvaria.pl:7172" "Sylvaria"  was disconnected ( "The remote host closed the connection" )
+[ 2026-08-17 14:46:56,816 ] StartDownload:  QUrl("")
+[ 2026-08-17 14:46:56,875 ] Disconnected from gameserver
+[ 2026-08-17 14:46:57,023 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15d96ddcb10) is not a function
+[ 2026-08-17 14:46:57,023 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15d96ddcb10) is not a function
+[ 2026-08-17 14:46:57,023 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15d96ddcb10) is not a function
+[ 2026-08-17 14:46:57,023 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15d96ddcb10) is not a function
+[ 2026-08-17 14:46:57,023 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15d96ddcb10) is not a function
+[ 2026-08-17 14:46:57,023 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15d96ddcb10) is not a function
+[ 2026-08-17 14:46:57,346 ] Request connection to gameserver  "tcp://sylvaria.pl:7172"  (unprotected:  "tcp://sylvaria.pl:7172" )  requested (Charakter "Kukureja" )
+[ 2026-08-17 14:46:57,352 ] Request connection to gameserver  "tcp://sylvaria.pl:7172" "Sylvaria"
+[ 2026-08-17 14:46:57,395 ] Connected to gameserver  "tcp://sylvaria.pl:7172" "Sylvaria"
+[ 2026-08-17 14:46:57,820 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342205148 found"
+[ 2026-08-17 14:46:57,820 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342205151 found"
+[ 2026-08-17 14:46:57,820 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216649 found"
+[ 2026-08-17 14:46:57,821 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216652 found"
+[ 2026-08-17 14:46:57,821 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342266024 found"
+[ 2026-08-17 14:46:57,821 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342205197 found"
+[ 2026-08-17 14:46:57,821 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216653 found"
+[ 2026-08-17 14:46:57,821 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342205200 found"
+[ 2026-08-17 14:46:57,821 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342205201 found"
+[ 2026-08-17 14:46:57,821 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342266022 found"
+[ 2026-08-17 14:46:57,821 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342266023 found"
+[ 2026-08-17 14:46:57,821 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216650 found"
+[ 2026-08-17 14:46:57,821 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216648 found"
+[ 2026-08-17 14:46:57,821 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342216651 found"
+[ 2026-08-17 14:46:57,821 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342266025 found"
+[ 2026-08-17 14:46:57,821 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342205268 found"
+[ 2026-08-17 14:48:39,022 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15de4053280) is not a function
+[ 2026-08-17 14:48:39,023 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15de4052920) is not a function
+[ 2026-08-17 14:48:39,024 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15de4034d80) is not a function
+[ 2026-08-17 14:48:39,024 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15de4036400) is not a function
+[ 2026-08-17 14:48:39,025 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15de4034b00) is not a function
+[ 2026-08-17 14:48:39,025 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15de40373a0) is not a function
+[ 2026-08-17 14:48:39,027 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15de4037760) is not a function
+[ 2026-08-17 14:48:42,916 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dafa05210) is not a function
+[ 2026-08-17 14:48:42,917 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dafa096d0) is not a function
+[ 2026-08-17 14:48:42,917 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dafa08cd0) is not a function
+[ 2026-08-17 14:48:42,918 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dafa0ae90) is not a function
+[ 2026-08-17 14:48:42,918 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dafa0ad50) is not a function
+[ 2026-08-17 14:48:42,919 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dafa0b930) is not a function
+[ 2026-08-17 14:48:42,919 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dafa0e4f0) is not a function
+[ 2026-08-17 14:48:48,505 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15daff91e70) is not a function
+[ 2026-08-17 14:48:48,506 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15daff9e710) is not a function
+[ 2026-08-17 14:48:48,506 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15daff9f7f0) is not a function
+[ 2026-08-17 14:48:48,507 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15daff9de50) is not a function
+[ 2026-08-17 14:48:48,507 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15daffa19b0) is not a function
+[ 2026-08-17 14:48:48,509 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15daffa26d0) is not a function
+[ 2026-08-17 14:48:48,509 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15daffa0330) is not a function
+[ 2026-08-17 14:48:48,509 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15daffa1410) is not a function
+[ 2026-08-17 14:48:48,509 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15daffa1cd0) is not a function
+[ 2026-08-17 14:48:48,509 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15daff9eb70) is not a function
+[ 2026-08-17 14:48:48,561 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15daf9fe7d0) is not a function
+[ 2026-08-17 14:48:48,562 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dafa07650) is not a function
+[ 2026-08-17 14:48:51,722 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dafa05850) is not a function
+[ 2026-08-17 14:48:51,723 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dafa07330) is not a function
+[ 2026-08-17 14:48:51,723 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dafa08cd0) is not a function
+[ 2026-08-17 14:48:51,725 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dafa08190) is not a function
+[ 2026-08-17 14:48:51,726 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dafa09d10) is not a function
+[ 2026-08-17 14:48:51,727 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dafa06390) is not a function
+[ 2026-08-17 14:48:51,728 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dafa09b30) is not a function
+[ 2026-08-17 14:48:51,830 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dafa09770) is not a function
+[ 2026-08-17 14:48:51,831 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dafa07a10) is not a function
+[ 2026-08-17 14:48:51,910 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dafa08e10) is not a function
+[ 2026-08-17 14:48:51,911 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dafa07ab0) is not a function
+[ 2026-08-17 14:48:52,174 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dafa09950) is not a function
+[ 2026-08-17 14:48:55,131 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15daffc7bb0) is not a function
+[ 2026-08-17 14:48:55,131 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15daffc7750) is not a function
+[ 2026-08-17 14:48:55,152 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15db0692510) is not a function
+[ 2026-08-17 14:48:55,153 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15db0693550) is not a function
+[ 2026-08-17 14:48:55,153 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15db0692fb0) is not a function
+[ 2026-08-17 14:48:55,154 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15db0693370) is not a function
+[ 2026-08-17 14:48:55,154 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15db0693f50) is not a function
+[ 2026-08-17 14:48:55,155 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMListAccessorData(0x15db022e0e0) is not a function
+[ 2026-08-17 15:00:15,936 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342278847 found"
+[ 2026-08-17 15:00:15,997 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342278850 found"
+[ 2026-08-17 15:00:27,705 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342278850 found"
+[ 2026-08-17 15:16:09,863 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342279796 found"
+[ 2026-08-17 15:27:01,903 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15da8253850) is not a function
+[ 2026-08-17 15:27:01,906 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15da8257130) is not a function
+[ 2026-08-17 15:27:01,907 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15da82562d0) is not a function
+[ 2026-08-17 15:27:01,908 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15da8256ff0) is not a function
+[ 2026-08-17 15:27:01,909 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15da82583f0) is not a function
+[ 2026-08-17 15:27:01,909 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15da8249170) is not a function
+[ 2026-08-17 15:27:01,910 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15da8249490) is not a function
+[ 2026-08-17 15:27:12,093 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dab93ac20) is not a function
+[ 2026-08-17 15:27:12,094 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dab939820) is not a function
+[ 2026-08-17 15:27:12,094 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dab93c3e0) is not a function
+[ 2026-08-17 15:27:12,096 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dab93dce0) is not a function
+[ 2026-08-17 15:27:12,096 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dab93f2c0) is not a function
+[ 2026-08-17 15:27:12,098 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dab93e500) is not a function
+[ 2026-08-17 15:27:12,098 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dab940440) is not a function
+[ 2026-08-17 15:27:12,098 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dab93bbc0) is not a function
+[ 2026-08-17 15:27:12,098 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dab93d2e0) is not a function
+[ 2026-08-17 15:27:12,098 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dab93edc0) is not a function
+[ 2026-08-17 15:27:12,118 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dab92e920) is not a function
+[ 2026-08-17 15:27:12,118 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x15dab92ee20) is not a function
+[ 2026-08-17 15:28:25,759 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435540 found"
+[ 2026-08-17 15:28:25,759 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435540 found"
+[ 2026-08-17 15:28:25,760 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435540 found"
+[ 2026-08-17 15:30:00,866 ] qrc:/qt/qml/qmlcomponents/qml/Chat.qml:586: TypeError: Property 'deslect' of object ChatInput_QMLTYPE_88(0x15dee82fb80) is not a function
+[ 2026-08-17 15:32:04,884 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d877e6de0) is not a function
+[ 2026-08-17 15:32:04,884 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d877e6de0) is not a function
+[ 2026-08-17 15:32:04,884 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d877e6de0) is not a function
+[ 2026-08-17 15:32:04,884 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d877e6de0) is not a function
+[ 2026-08-17 15:32:04,884 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d877e6de0) is not a function
+[ 2026-08-17 15:32:04,884 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d877e6de0) is not a function
+[ 2026-08-17 15:32:04,884 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d877e6de0) is not a function
+[ 2026-08-17 15:32:04,889 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b37a8d0) is not a function
+[ 2026-08-17 15:32:04,889 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b37a8d0) is not a function
+[ 2026-08-17 15:32:04,889 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b37a8d0) is not a function
+[ 2026-08-17 15:32:04,889 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b37a8d0) is not a function
+[ 2026-08-17 15:32:04,890 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b37a8d0) is not a function
+[ 2026-08-17 15:32:04,890 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b37a8d0) is not a function
+[ 2026-08-17 15:32:04,890 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b37a8d0) is not a function
+[ 2026-08-17 15:32:04,895 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b37e110) is not a function
+[ 2026-08-17 15:32:04,895 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b37e110) is not a function
+[ 2026-08-17 15:32:04,895 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b37e110) is not a function
+[ 2026-08-17 15:32:04,895 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b37e110) is not a function
+[ 2026-08-17 15:32:04,895 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b37e110) is not a function
+[ 2026-08-17 15:32:04,895 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b37e110) is not a function
+[ 2026-08-17 15:32:04,895 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b37e110) is not a function
+[ 2026-08-17 15:32:04,900 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b3721d0) is not a function
+[ 2026-08-17 15:32:04,900 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b3721d0) is not a function
+[ 2026-08-17 15:32:04,901 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b3721d0) is not a function
+[ 2026-08-17 15:32:04,901 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b3721d0) is not a function
+[ 2026-08-17 15:32:04,901 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b3721d0) is not a function
+[ 2026-08-17 15:32:04,901 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b3721d0) is not a function
+[ 2026-08-17 15:32:04,901 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b3721d0) is not a function
+[ 2026-08-17 15:32:04,906 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b376190) is not a function
+[ 2026-08-17 15:32:04,906 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b376190) is not a function
+[ 2026-08-17 15:32:04,906 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b376190) is not a function
+[ 2026-08-17 15:32:04,906 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b376190) is not a function
+[ 2026-08-17 15:32:04,906 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b376190) is not a function
+[ 2026-08-17 15:32:04,907 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b376190) is not a function
+[ 2026-08-17 15:32:04,907 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9b376190) is not a function
+[ 2026-08-17 15:32:04,913 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96ddc430) is not a function
+[ 2026-08-17 15:32:04,913 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96ddc430) is not a function
+[ 2026-08-17 15:32:04,913 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96ddc430) is not a function
+[ 2026-08-17 15:32:04,914 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96ddc430) is not a function
+[ 2026-08-17 15:32:04,914 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96ddc430) is not a function
+[ 2026-08-17 15:32:04,914 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96ddc430) is not a function
+[ 2026-08-17 15:32:04,914 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96ddc430) is not a function
+[ 2026-08-17 15:32:04,918 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96ddfdb0) is not a function
+[ 2026-08-17 15:32:04,918 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96ddfdb0) is not a function
+[ 2026-08-17 15:32:04,918 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96ddfdb0) is not a function
+[ 2026-08-17 15:32:04,918 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96ddfdb0) is not a function
+[ 2026-08-17 15:32:04,918 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96ddfdb0) is not a function
+[ 2026-08-17 15:32:04,918 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96ddfdb0) is not a function
+[ 2026-08-17 15:32:04,919 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96ddfdb0) is not a function
+[ 2026-08-17 15:32:04,924 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96de5350) is not a function
+[ 2026-08-17 15:32:04,924 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96de5350) is not a function
+[ 2026-08-17 15:32:04,924 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96de5350) is not a function
+[ 2026-08-17 15:32:04,924 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96de5350) is not a function
+[ 2026-08-17 15:32:04,925 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96de5350) is not a function
+[ 2026-08-17 15:32:04,925 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96de5350) is not a function
+[ 2026-08-17 15:32:04,925 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96de5350) is not a function
+[ 2026-08-17 15:32:04,928 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96deebd0) is not a function
+[ 2026-08-17 15:32:04,928 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96deebd0) is not a function
+[ 2026-08-17 15:32:04,928 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96deebd0) is not a function
+[ 2026-08-17 15:32:04,928 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96deebd0) is not a function
+[ 2026-08-17 15:32:04,928 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96deebd0) is not a function
+[ 2026-08-17 15:32:04,929 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96deebd0) is not a function
+[ 2026-08-17 15:32:04,929 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d96deebd0) is not a function
+[ 2026-08-17 15:32:04,932 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15dac9ee540) is not a function
+[ 2026-08-17 15:32:04,932 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15dac9ee540) is not a function
+[ 2026-08-17 15:32:04,933 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15dac9ee540) is not a function
+[ 2026-08-17 15:32:04,933 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15dac9ee540) is not a function
+[ 2026-08-17 15:32:04,933 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15dac9ee540) is not a function
+[ 2026-08-17 15:32:04,933 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15dac9ee540) is not a function
+[ 2026-08-17 15:32:04,933 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15dac9ee540) is not a function
+[ 2026-08-17 15:32:04,935 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15dac9f43a0) is not a function
+[ 2026-08-17 15:32:04,935 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15dac9f43a0) is not a function
+[ 2026-08-17 15:32:04,936 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15dac9f43a0) is not a function
+[ 2026-08-17 15:32:04,936 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15dac9f43a0) is not a function
+[ 2026-08-17 15:32:04,936 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15dac9f43a0) is not a function
+[ 2026-08-17 15:32:04,936 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15dac9f43a0) is not a function
+[ 2026-08-17 15:32:04,936 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15dac9f43a0) is not a function
+[ 2026-08-17 15:32:04,940 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15dac9ec4c0) is not a function
+[ 2026-08-17 15:32:04,941 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15dac9ec4c0) is not a function
+[ 2026-08-17 15:32:04,941 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15dac9ec4c0) is not a function
+[ 2026-08-17 15:32:04,941 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15dac9ec4c0) is not a function
+[ 2026-08-17 15:32:04,941 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15dac9ec4c0) is not a function
+[ 2026-08-17 15:32:04,942 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15dac9ec4c0) is not a function
+[ 2026-08-17 15:32:04,942 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15dac9ec4c0) is not a function
+[ 2026-08-17 15:32:04,946 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d982ee670) is not a function
+[ 2026-08-17 15:32:04,948 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d982ee670) is not a function
+[ 2026-08-17 15:32:04,948 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d982ee670) is not a function
+[ 2026-08-17 15:32:04,948 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d982ee670) is not a function
+[ 2026-08-17 15:32:04,948 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d982ee670) is not a function
+[ 2026-08-17 15:32:04,948 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d982ee670) is not a function
+[ 2026-08-17 15:32:04,948 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d982ee670) is not a function
+[ 2026-08-17 15:32:04,953 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d982f37b0) is not a function
+[ 2026-08-17 15:32:04,954 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d982f37b0) is not a function
+[ 2026-08-17 15:32:04,954 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d982f37b0) is not a function
+[ 2026-08-17 15:32:04,954 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d982f37b0) is not a function
+[ 2026-08-17 15:32:04,954 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d982f37b0) is not a function
+[ 2026-08-17 15:32:04,955 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d982f37b0) is not a function
+[ 2026-08-17 15:32:04,955 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d982f37b0) is not a function
+[ 2026-08-17 15:32:04,960 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9ab65390) is not a function
+[ 2026-08-17 15:32:04,961 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9ab65390) is not a function
+[ 2026-08-17 15:32:04,961 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9ab65390) is not a function
+[ 2026-08-17 15:32:04,961 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9ab65390) is not a function
+[ 2026-08-17 15:32:04,962 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9ab65390) is not a function
+[ 2026-08-17 15:32:04,962 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9ab65390) is not a function
+[ 2026-08-17 15:32:04,963 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d9ab65390) is not a function
+[ 2026-08-17 15:32:04,968 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82dbc9c0) is not a function
+[ 2026-08-17 15:32:04,968 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82dbc9c0) is not a function
+[ 2026-08-17 15:32:04,968 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82dbc9c0) is not a function
+[ 2026-08-17 15:32:04,969 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82dbc9c0) is not a function
+[ 2026-08-17 15:32:04,969 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82dbc9c0) is not a function
+[ 2026-08-17 15:32:04,969 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82dbc9c0) is not a function
+[ 2026-08-17 15:32:04,971 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82dbc9c0) is not a function
+[ 2026-08-17 15:32:04,975 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82db7a60) is not a function
+[ 2026-08-17 15:32:04,975 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82db7a60) is not a function
+[ 2026-08-17 15:32:04,975 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82db7a60) is not a function
+[ 2026-08-17 15:32:04,976 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82db7a60) is not a function
+[ 2026-08-17 15:32:04,976 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82db7a60) is not a function
+[ 2026-08-17 15:32:04,976 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82db7a60) is not a function
+[ 2026-08-17 15:32:04,977 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82db7a60) is not a function
+[ 2026-08-17 15:32:04,980 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82ad6470) is not a function
+[ 2026-08-17 15:32:04,980 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82ad6470) is not a function
+[ 2026-08-17 15:32:04,981 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82ad6470) is not a function
+[ 2026-08-17 15:32:04,981 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82ad6470) is not a function
+[ 2026-08-17 15:32:04,981 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82ad6470) is not a function
+[ 2026-08-17 15:32:04,982 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82ad6470) is not a function
+[ 2026-08-17 15:32:04,982 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82ad6470) is not a function
+[ 2026-08-17 15:32:04,985 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82ad9350) is not a function
+[ 2026-08-17 15:32:04,985 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82ad9350) is not a function
+[ 2026-08-17 15:32:04,985 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82ad9350) is not a function
+[ 2026-08-17 15:32:04,986 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82ad9350) is not a function
+[ 2026-08-17 15:32:04,986 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82ad9350) is not a function
+[ 2026-08-17 15:32:04,987 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82ad9350) is not a function
+[ 2026-08-17 15:32:04,987 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15d82ad9350) is not a function
+[ 2026-08-17 15:32:04,991 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15de3a8fb20) is not a function
+[ 2026-08-17 15:32:04,992 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15de3a8fb20) is not a function
+[ 2026-08-17 15:32:04,992 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15de3a8fb20) is not a function
+[ 2026-08-17 15:32:04,992 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15de3a8fb20) is not a function
+[ 2026-08-17 15:32:04,993 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15de3a8fb20) is not a function
+[ 2026-08-17 15:32:04,993 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15de3a8fb20) is not a function
+[ 2026-08-17 15:32:04,993 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15de3a8fb20) is not a function
+[ 2026-08-17 15:44:42,233 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15daa0a37c0) is not a function
+[ 2026-08-17 15:44:42,233 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15daa0a37c0) is not a function
+[ 2026-08-17 15:44:42,234 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15daa085540) is not a function
+[ 2026-08-17 15:44:42,234 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMAbstractItemModelData(0x15daa085540) is not a function
+[ 2026-08-17 15:46:09,454 ] Error while processing network packet Unknown Gameserver Message: 0
+[ 2026-08-17 15:46:09,454 ] "XQkB7ZgAAgENAFBvd2VyZnVsIFZvaWQzAKvnAgABAREAUG93ZXJmdWwgRXBpcGhhbnlCAKvnAgABA+VbCQAAAAAAAACAAQETAEJhc2ljIEZlYXRoZXJ3ZWlnaHRMABpwAAABBFt7AAEBDwBCYXNpYyBWYW1waXJpc20uAEivAAABBe6YCwAAAADuAQAAAAAAAAAGuXYAAgEPAFBvd2VyZnVsIFNjb3JjaA8ADEcDAAEAB72KAAAIgXsAAQAKeWUAC2RbAABdCQHtmAACAQ0AUG93ZXJmdWwgVm9pZDMAq+cCAAEBEQBQb3dlcmZ1bCBFcGlwaGFueUIAq+cCAAED5VsJAAAAAAAAAIABARMAQmFzaWMgRmVhdGhlcndlaWdodEwAGnAAAAEEW3sAAQEPAEJhc2ljIFZhbXBpcmlzbS4ASK8AAAEF7pgLAAAAAO4BAAAAAAAAAAa5dgACAQ8AUG93ZXJmdWwgU2NvcmNoDwAMRwMAAQAHvYoAAAiBewABAAp5ZQALZFsAAIOGfwB+BwYBDgAHAQEHAACDhn8AfgcEOgAEAQEAjKIAABBkoIAcAACbHAAAJQQQALMe4RMBAAAAjgJ2EFUDAAAAAJYA2iUAAH4nAADIogn7AgAA1wEAAAEAAAAAAAAAAMwABQAAALQZhn8AfgcFAAAAwiAAWW91IHdlcmUgaGVhbGVkIGZvciA1IGhpdHBvaW50cy5dCQHtmAACAQ0AUG93ZXJmdWwgVm9pZDMAq+cCAAEBEQBQb3dlcmZ1bCBFcGlwaGFueUIAq+cCAAED5VsJAAAAAAAAAIABARMAQmFzaWMgRmVhdGhlcndlaWdodEwAGnAAAAEEW3sAAQEPAEJhc2ljIFZhbXBpcmlzbS4ASK8AAAEF7pgLAAAAAO4BAAAAAAAAAAa5dgACAQ8AUG93ZXJmdWwgU2NvcmNoDwAMRwMAAQAHvYoAAAiBewABAAp5ZQALZFsAAIOKfwF+BwMEAAEAg4p/AX4HBgEUAABdCQHtmAACAQ0AUG93ZXJmdWwgVm9pZDMAq+cCAAEBEQBQb3dlcmZ1bCBFcGlwaGFueUIAq+cCAAED5VsJAAAAAAAAAIABARMAQmFzaWMgRmVhdGhlcndlaWdodEwAGnAAAAEEW3sAAQEPAEJhc2ljIFZhbXBpcmlzbS4ASK8AAAEF7pgLAAAAAO4BAAAAAAAAAAa5dgACAQ8AUG93ZXJmdWwgU2NvcmNoDwAMRwMAAQAHvYoAAAiBewABAAp5ZQALZFsAAMwBfwEAAAGMqUMAUABqin8BfgcBSQsFg4p/AX4HAwEAAQCDin8BfgcDEAABAMwBBAAAAADMAX8BAAABtBeKfwF+BwQAAAC0fwEAAMYvAEEgYm9hciBsb3NlcyAzODcgaGl0cG9pbnRzIGR1ZSB0byB5b3VyICBhdHRhY2sujKIAABBkoJscAACbHAAAJQQQALMe4RMBAAAAjgJ2EFUDAAAAAJYA2iUAAH4nAADIogn7AgAA1wEAAAEAAAAAAAAAAMwAGwAAALQZhn8AfgcbAAAAwiEAWW91IHdlcmUgaGVhbGVkIGZvciAyNyBoaXRwb2ludHMuoJscAACbHAAAJQQQALMe4RMBAAAAjgJ2EFUDAAAAAJYAJyYAAH4nAADIogn7AgAA1wEAAAEAAAAAAAAAALQZhn8AfgdNAAAAXx0AWW91IHdlcmUgcmVzdG9yZWQgZm9yIDc3IG1hbmGhJwAgACAA5xYTABMAEwB7EQoACgAKAAAACgAKAAoAAAAKAAoACgAAAJoAagBqAJIeTQBNAE0AEQYKAAoACgAAAAA67hgAKKUUAH0AvAIABP///38ABMMJAIAEzwcAgATzAQCABNsFAIAE////fwAAJQAAAAR8AACABP///38AAAcABPMBAIADBF4CAIACBFQFAIABBDIEAIAEBAgGAIAFBPMBAIAGBPMBAIAE////fwT///9/BP///3+gmxwAAJscAAAlBBAAsx7hEwEAAACOAnYQVQMAAAAAlgAnJgAAficAAMiiCfsCAADXAQAAAQAAAAAAAAAA9TkAAQAAAQIAAAEDAAABBAAAAQUAAAEGAAABBwAAAQgAAAEJAAABCgAAAQsAAAEmCwABMwsAATQLAAE1CwABNgsAATcLAAGZCwABuwsAAcILAAHoCwAy6wsAAQkMABQaDAABgQ0AAakWAAETHQAU8j4AAZU/AAGjUwAKC1YAAfRXAAROWwBChmZbAAHlWwAB6VsAC/ZbAAmpXAABd2UAAXhlAAF5ZQABf28AAS5wAAGIdgABuXYAAVt7AAGBewABdH8AASiFAAHYiQABvYoAAT2MAEyzPowAQI/tmAAB7pgAAVerAAEKywABoJscAACbHAAAJQQQALMe4RMBAAAAjgJ2EFUDAAAAAJYAJyYAAH4nAADIogn7AgAA1wEAAAEAAAAAAAAAAHEEAQA+jCr1OQABAAABAgAAAQMAAAEEAAABBQAAAQYAAAEHAAABCAAAAQkAAAEKAAABCwAAASYLAAEzCwABNAsAATULAAE2CwABNwsAAZkLAAG7CwABwgsAAegLADLrCwABCQwAFBoMAAGBDQABqRYAARMdABTyPgABlT8AAaNTAAoLVgAB9FcABE5bAEKGZlsAAeVbAAHpWwAL9lsACalcAAF3ZQABeGUAAXllAAF/bwABLnAAAYh2AAG5dgABW3sAAYF7AAF0fwABKIUAAdiJAAG9igABPYwATLM+jABAju2YAAHumAABV6sAAQrLAAGgmxwAAJscAAB/BBAAsx7hEwEAAACOAnYQVQMAAAAAlgAnJgAAficAAMiiCfsCAADXAQAAAQAAAAAAAAAAeAXumAsAAAAA7QEAAAAAAADOPoygmxwAAJscAAB/BBAAsx7hEwEAAACOAnYQVQMAAAAAlgAnJgAAficAAMigCfsCAADXAQAAAQAAAAAAAAAAoJscAACbHAAAfwQQALMe4RMBAAAAjgJ2EFUDAAAAAJYAJyYAAH4nAADIoAn7AgAA1wEAAAEAAAAAAAAAAKCbHAAAmxwAAH8EEACzHuETAQAAAI4CdhBVAwAAAACWACcmAAB+JwAAyKAJ+wIAANcBAAABAAAAAAAAAAC0GoZ/AH4HKQQAAAAAAADXMgBZb3UgZ2FpbmVkIDEwNjUgZXhwZXJpZW5jZSBwb2ludHMuIChWSVAgYm9udXMgMTUlKaCbHAAAmxwAAH8EEADcIuETAQAAAI4CdhBVAwAAAACWACcmAAB+JwAAyKAJ+wIAANcBAAABAAAAAAAAAACvPAAAAAAAAAApBAAAAAAAAFy5dnvWDQABbIp/AX4HAWqKfwF+BwFGCwVqin8BfgcDITAA0QQAQm9hcnwBAAAAAAABFjACtB8rAExvb3Qgb2YgYSBib2FyOiB7MTIzMTB8MiBoYXVuY2hlcyBvZiBib2FyfS5rin8BfgcDITAE7gBy4KQKAAAAAO4BAAAAAAAAAADuCgYAAAAAAAAA7jL6AAAAAAAAAO5XAwAAAO5GUQAAAAAAAADuRwAAAAAAAAAA7kgAAAAAAAAAALQTXABZb3UgcmVjZWl2ZWQgNiBkdXN0IGZvciB0aGUgRXhhbHRhdGlvbiBGb3JnZS4gWW91IG5vdyBoYXZlIDgxIG91dCBvZiBhIG1heGltdW0gb2YgMTE2IGR1c3RzLmyKfwF+BwKjAAAAAGuKfwF+BwIhMABwA0AA9ToAAQAAAQIAAAEDAAABBAAAAQUAAAEGAAABBwAAAQgAAAEJAAABCgAAAQsAAAEmCwABMwsAATQLAAE1CwABNgsAATcLAAGZCwABuwsAAcILAAHoCwAy6wsAAQkMABQaDAABgQ0AAakWAAETHQAUFjAAAvI+AAGVPwABo1MACgtWAAH0VwAETlsAQoZmWwAB5VsAAelbAAv2WwAJqVwAAXdlAAF4ZQABeWUAAX9vAAEucAABiHYAAbl2AAFbewABgXsAAXR/AAEohQAB2IkAAb2KAAE9jABMsz6MAECO7ZgAAe6YAAFXqwABCssAAaCbHAAAmxwAAI/5DwDcIuETAQAAAI4CdhBVAwAAAACWACcmAAB+JwAAyKAJ+wIAANcBAAABAAAAAAAAAACDhn8AfgcGAeIKAM8WMAIOAGhhdW5jaCBvZiBib2FytB4SAFlvdSBsb290ZWQgMSBpdGVtLg=="
+[ 2026-08-17 15:46:11,950 ] Qt has caught an exception thrown from an event handler. Throwing
+exceptions from an event handler is not supported in Qt.
+You must not let any exception whatsoever propagate through Qt code.
+[ 2026-08-17 15:46:15,891 ] Using spritesheet cache size of 910
+[ 2026-08-17 15:46:15,947 ] Sound engine initialized with default sound device "Speakers (Realtek(R) Audio)"
+[ 2026-08-17 15:46:15,979 ] Switch used audio device to "Speakers (Realtek(R) Audio)"
+[ 2026-08-17 15:46:25,209 ] Asset loading complete
+[ 2026-08-17 15:46:25,525 ] StartDownload:  QUrl("")
+[ 2026-08-17 15:50:47,715 ] Uploading crash report failed: "Protocol \"\" is unknown"
+[ 2026-08-17 15:50:51,093 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2d023abdc90) is not a function
+[ 2026-08-17 15:50:51,095 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2d023abdc90) is not a function
+[ 2026-08-17 15:50:51,095 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2d023abdc90) is not a function
+[ 2026-08-17 15:50:51,095 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2d023abdc90) is not a function
+[ 2026-08-17 15:50:51,095 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2d023abdc90) is not a function
+[ 2026-08-17 15:50:51,095 ] qrc:/qt/qml/QtQuick/LegacyControls/TableViewItemDelegateLoader.qml:95: TypeError: Property 'hasOwnProperty' of object QQmlDMObjectData(0x2d023abdc90) is not a function
+[ 2026-08-17 15:50:51,800 ] Request connection to gameserver  "tcp://sylvaria.pl:7172"  (unprotected:  "tcp://sylvaria.pl:7172" )  requested (Charakter "Kukureja" )
+[ 2026-08-17 15:50:51,807 ] Request connection to gameserver  "tcp://sylvaria.pl:7172" "Sylvaria"
+[ 2026-08-17 15:50:51,848 ] Connected to gameserver  "tcp://sylvaria.pl:7172" "Sylvaria"
+[ 2026-08-17 15:50:52,451 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342194561 found"
+[ 2026-08-17 15:50:52,452 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342194560 found"
